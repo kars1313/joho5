@@ -1,0 +1,27 @@
+/* main.css */
+
+/* 基本的なスタイルはTailwind CSSのクラスで適用されるため、
+   ここでは必要に応じてカスタムスタイルを追加します。 */
+
+/* 例: 特定の要素にカスタムフォントを適用する場合 */
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap'); */
+/* body {
+    font-family: 'Inter', sans-serif;
+} */
+
+/* Tailwind CSSのデフォルト設定を上書きしたい場合など */
+/* .container {
+    max-width: 1200px;
+} */
+
+/* その他のカスタムスタイル */
+/* 例えば、ホバー時のアニメーションなど */
+/* a {
+    transition: color 0.3s ease-in-out;
+}
+a:hover {
+    color: #4CAF50;
+} */
+
+/* このプロジェクトでは、ほとんどのスタイリングをHTML内のTailwindクラスで行っています。
+   そのため、main.cssは非常にシンプルになります。 */
